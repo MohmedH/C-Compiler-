@@ -10,7 +10,7 @@
 // msg is a success or syntax error message, and program
 // is a list of instructions if parsing was successful.
 //
-// <<YOUR NAME>>
+// Mohmed Hira
 // U. of Illinois, Chicago
 // CS 341, Spring 2019
 // Project #05
